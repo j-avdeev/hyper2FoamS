@@ -1,0 +1,2 @@
+OBJECTS = \
+$(OBJECTS_DIR)/hyper2FoamS.o

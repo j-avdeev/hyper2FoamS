@@ -1,0 +1,4 @@
+hyper2FoamS.C
+
+EXE = $(FOAM_USER_APPBIN)/hyper2FoamS
+
